@@ -1,3 +1,41 @@
 {
-    "streams" :[]
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "This is my first stream!!",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "Creating stream is fun!",
+      "id": 2
+    },
+    {
+      "title": "create",
+      "description": "streams",
+      "id": 3
+    },
+    {
+      "title": "stream4",
+      "description": "to stream",
+      "id": 4
+    },
+    {
+      "title": "my stream",
+      "description": "This is created by me",
+      "userId": "100663085849386880705",
+      "id": 5
+    },
+    {
+      "title": "Make history",
+      "description": "After creating stream navigate to the all edited!",
+      "userId": "100663085849386880705",
+      "id": 6
+    },
+    {
+      "title": "Create stream",
+      "description": "Created with common Edited!!",
+      "id": 11
+    }
+  ]
 }
